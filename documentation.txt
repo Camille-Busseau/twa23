@@ -1,0 +1,22 @@
+Documentation - API Harvard Art Museums
+Art textile par culture des collections des musées de Harvard
+
+Source: https://github.com/harvardartmuseums/api-docs
+
+// korean :https://api.harvardartmuseums.org/object?culture=37527867&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// american : https://api.harvardartmuseums.org/object?culture=37526778&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// spanish : https://api.harvardartmuseums.org/object?culture=37528659&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// chinese : https://api.harvardartmuseums.org/object?culture=37527174&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// greek : https://api.harvardartmuseums.org/object?culture=37527534&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// algerian : https://api.harvardartmuseums.org/object?culture=37526769&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// afghan : https://api.harvardartmuseums.org/object?culture=37525950&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+//  egyptian : https://api.harvardartmuseums.org/object?culture=37527318&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+//  french : https://api.harvardartmuseums.org/object?culture=37527426&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f
+// japanese : https://api.harvardartmuseums.org/object?culture=37527795&medium=2028387&q=imagepermissionlevel:0&size=21&apikey=b84bc79b-49d7-4fb2-9ba5-46874f7f9c7f 
+
+Lignes de commande:
+>npm init -y
+>npm i express request dotenv
+>npm start
+
+
